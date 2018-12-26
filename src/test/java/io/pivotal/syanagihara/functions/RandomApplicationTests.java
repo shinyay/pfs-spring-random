@@ -1,4 +1,4 @@
-package io.pivotal.syanagihara.functions.random;
+package io.pivotal.syanagihara.functions;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
